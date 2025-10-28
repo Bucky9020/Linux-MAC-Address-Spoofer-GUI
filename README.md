@@ -21,16 +21,17 @@ Before running the tool, make sure these dependencies are installed:
 ```bash
 sudo apt update
 sudo apt install python3 python3-tk net-tools macchanger
-
+```
 Installation
 Clone the repository and navigate to the project folder:
 git clone [https://github.com/Bucky9020/Linux-MAC-Address-Spoofer-GUI.git](https://github.com/Bucky9020/Linux-MAC-Address-Spoofer-GUI.git)
 cd Linux-MAC-Address-Spoofer-GUI
 
 ▶️ Run the Tool
+```
 sudo python3 mac_spoofer_linux.py
 ⚠️ Note: sudo is required because changing MAC addresses needs root privileges.
-
+```
 ⚙️ Example of Usage
 
 Select your network interface from the list (e.g., eth0, wlan0).
