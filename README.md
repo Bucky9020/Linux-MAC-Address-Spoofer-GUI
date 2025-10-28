@@ -30,8 +30,9 @@ cd Linux-MAC-Address-Spoofer-GUI
 ▶️ Run the Tool
 ```
 sudo python3 mac_spoofer_linux.py
-⚠️ Note: sudo is required because changing MAC addresses needs root privileges.
 ```
+⚠️ Note: sudo is required because changing MAC addresses needs root privileges.
+
 ⚙️ Example of Usage
 
 Select your network interface from the list (e.g., eth0, wlan0).
